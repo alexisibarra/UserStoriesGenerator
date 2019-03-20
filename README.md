@@ -1,8 +1,6 @@
-# Viajaverde
+# User Stories Generator
 
-# Product Backlog
-
-Automated Product backlog generator using ruby and latex. Developed by [Alexis Ibarra](https://github.com/alexisibarra) for [WeZenz](http://www.wezenz.com)
+Automated Product backlog generator using ruby and latex. Developed by [Alexis Ibarra](https://github.com/alexisibarra)
 
 ## Requeriments
 
