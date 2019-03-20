@@ -1,0 +1,9 @@
+*.toc
+*.log
+*.aux
+userStories_*.tex
+userStories.tex
+*.pdf
+out/*
+!out/productBacklog.tex
+!out/cover.tex
