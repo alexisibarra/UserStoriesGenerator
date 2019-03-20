@@ -6,3 +6,4 @@ userStories.tex
 *.pdf
 out/*
 !out/productBacklog.tex
+!out/cover.tex
