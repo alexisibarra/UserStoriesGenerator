@@ -1,0 +1,17 @@
+{
+  "modules": [
+    {
+      "name": "Module name",
+      "histories": [
+        {
+          "user": "",
+          "want": "",
+          "so": "",
+          "Acceptance criteria": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
